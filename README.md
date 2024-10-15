@@ -23,8 +23,8 @@ A simple yet powerful Python-based GUI calculator built using the Tkinter librar
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/python-gui-calculator.git
-   cd python-gui-calculator
+   git clone https://github.com/afolabisamguy/Python-Gui_Calculator.git
+   cd Python-Gui_Calculator
    ```
 
 2. Install the necessary dependencies (if any):
@@ -34,9 +34,9 @@ A simple yet powerful Python-based GUI calculator built using the Tkinter librar
 
    **Note**: This project uses Python's built-in Tkinter module, so no additional libraries are required for the GUI.
 
-3. Run the `calculator.py` script:
+3. Run the `main.py` script:
    ```bash
-   python calculator.py
+   python main.py
    ```
 
 ## How to Use
@@ -59,7 +59,7 @@ A simple yet powerful Python-based GUI calculator built using the Tkinter librar
 
 ## Code Structure
 
-- `calculator.py`: The main Python script containing the logic for the calculator.
+- `main.py`: The main Python script containing the logic for the calculator.
 - `README.md`: This documentation file.
 - `images/`: Folder containing images/screenshots of the calculator.
 
